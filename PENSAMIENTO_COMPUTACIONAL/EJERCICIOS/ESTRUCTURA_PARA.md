@@ -29,12 +29,12 @@ Realizar algoritmo y diagrama de flujo de un programa que imprima las tablas de 
 
 1.Inicio
 
-2.Declarar(contador1,contador2,resultado1,Resultado2) int
+2.Declarar(contador1,contador2,Resultado1) int
 
-3.Asignar (Contador1)
+3.Asignar (Contador1=1)
 
-4.Asignar (Contador2)
+4.Asignar (Contador2=2)
 
-5.PARA (Contador1<=10) Resultado1 = PARA (Contador2<=10) Resultado2=Numero*Contador Mostrar(Numero * Contador = Resultado) Contador=Contador + 1 Fin PARA) Contador * Contador + 1 Fin PARA
+5.PARA (Contador1<=10) Resultado1 = PARA (Contador2<=10) Resultado2=Contador1*Contador2 Mostrar(Contador1 * Contador2 = Resultado) Contador=Contador + 1 Fin PARA) Contador * Contador + 1 Fin PARA
 
 6.Fin
