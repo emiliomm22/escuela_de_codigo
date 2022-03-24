@@ -104,7 +104,7 @@ Algoritmo detecta_si_es_vocal
 10. Programa que pida 3 números y los muestre en pantalla de menor a mayor.
 11. Realizar un algoritmo y diagrama de flujo para un programa que permita ingresar un nombre y una cantidad numérica para que así después el programa escriba este nombre tantas veces como su cantidad ingresada.
 
-Algoritmo Nombre_Impreso
+        Algoritmo Nombre_Impreso
 
 	Escribir "ingresa tu nombre"
 	
